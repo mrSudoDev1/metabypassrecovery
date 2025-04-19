@@ -29,7 +29,7 @@ python3 -m pip install requests bs4
 python3 -m pip install mechanize
 
 
-git clone https://github.com/mrSudoDev1/Ken-FBHack.git
+git clone https://github.com/mrSudoDev1/metabypassrecovery
 
 cd Ken-FBHACK
 
