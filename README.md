@@ -31,7 +31,7 @@ python3 -m pip install mechanize
 
 git clone https://github.com/mrSudoDev1/metabypassrecovery
 
-cd Ken-FBHACK
+cd metabypassrecovery
 
 python3 fb-tool.py or python fb-tool.py
 
